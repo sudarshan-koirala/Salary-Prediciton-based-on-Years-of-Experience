@@ -11,7 +11,7 @@ The following graph shows the Salary vs Experience (Training Set).
 ![Salary vs Experience (Training Set)](https://user-images.githubusercontent.com/14214659/70992287-02c66980-20d2-11ea-8251-cba6a794a288.png)
 
 The following graph shows the Salary vs Experience (Test Set).
-![Salary vs Experience (Training set)](https://user-images.githubusercontent.com/14214659/70992287-02c66980-20d2-11ea-8251-cba6a794a288.png)
+![Salary vs Experience (Test set)](https://user-images.githubusercontent.com/14214659/70992378-386b5280-20d2-11ea-9b5f-37a6815684f9.png)
 
 From the graph, it is clear that the model predicts the salary well enough with the provided years of experience.
 
